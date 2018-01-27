@@ -29,18 +29,23 @@
 7、为以上联运渠道新增 虚拟杯赛 高频类游戏。采用egret 白鹭引擎独立进行开发。开发耗时3个多星期。（TypeScript 较严格语言）
     访问见各联运入口。
 8、联运代理推广V1.0（包括后台数据统计等（利用element UI））。
-    范围路径: http://crazybet.choopaoo.com/crazybet_daili/#/home 。
+    访问路径: http://crazybet.choopaoo.com/crazybet_daili/#/home 。
 8.1、所有联运渠道优化，新增兑换劵、兑换劵抽取过程。
-8.2、参与比分部分改版。
+8.2、参与比分部分改版。 访问路径: http://live.m.500.com/home/zq/jczq/cur?render=local 。
 9、支撑 疯狂猜球APP、联运渠道、代理推广里各类活动需求（感恩节活动、开宝箱活动、送30送30、累计充值送、代理系统、微信公众号支付等。）
    访问见各联运入口or App 入口。
 10、公司发展需要，去除疯狂猜球部门成立磁石工作室。至此疯狂猜球进入收尾阶段。（年后上述将不能访问，所有服务停止）。
-11、磁石研究新项目，我暂时支援 马耳他海外彩票项目。 待续。。。
+11、磁石后端技术开拓新项目，我暂时支援 马耳他海外彩票项目。 待续。。。
 
 ~~~
 
 ### - 部分同学需求
+[厦门市威海特纺织品有限公司](http://www.whbagsales.com/)，商品展示，利于海外客户查看
+
 ~~~
+1、厦门市威海特纺织品有限公司，商品展示，利于海外客户查看。
+    访问路径：http://www.whbagsales.com/
+2、某后台管理。(进行中）
 
 ~~~
 
@@ -54,5 +59,7 @@
 ![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/4.jpg)
 ![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/3.jpg)
 ![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/2.jpg)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/6.jpg)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/7.png)
 
 
