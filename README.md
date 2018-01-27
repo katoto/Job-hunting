@@ -23,7 +23,7 @@
     访问路径：http://crazybet.choopaoo.com/official?from=500touch
     or  http://crazybet.choopaoo.com/official?from=off
     
-    github 地址：。。。。。。****** 
+    github 地址： https://github.com/katoto/crazyOfficial 
 6、米盘联运版(代理方)。依照对方要求去部分功能、去部分商品、以及下载引导等。
     访问路径：http://crazybet.choopaoo.com/official?from=off-mipan
 7、为以上联运渠道新增 虚拟杯赛 高频类游戏。采用egret 白鹭引擎独立进行开发。开发耗时3个多星期。（TypeScript 较严格语言）
@@ -48,5 +48,10 @@
 左边目录 **ProScreenShot** 是一些相关项目的截图，欢迎clone 查看。
 
 展现部分截图：
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/5.jpg)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/1.jpg)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/4.jpg)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/3.jpg)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/2.jpg)
 
 
