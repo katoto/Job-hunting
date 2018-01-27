@@ -1,5 +1,5 @@
 ## 记录工作路径
-![](img_url)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/topBan.png)
 
 ### - 酷我音乐工作
 在酷我音乐工作至2016年末，详看之前写的自我经历总结：
