@@ -35,8 +35,16 @@
 9、支撑 疯狂猜球APP、联运渠道、代理推广里各类活动需求（感恩节活动、开宝箱活动、送30送30、累计充值送、代理系统、微信公众号支付等。）
    访问见各联运入口or App 入口。
 10、公司发展需要，去除疯狂猜球部门成立磁石工作室。至此疯狂猜球进入收尾阶段。（年后上述将不能访问，所有服务停止）。
-11、磁石后端技术开拓新项目，我暂时支援 马耳他海外彩票项目。 待续。。。
-
+11、磁石后端技术开拓新项目，我暂时支援 马耳他海外彩票项目。
+//  在马耳他项目差不多支援一个多月就回到磁石项目组了，离职了一些部分同事，后面又补充了相应的空位。 中间空了一大段时间没有更新代码
+12、回来之后，第一件建是搭建www.coinslot.com 主站，学习以太坊相关的知识，开发基于以太坊的上链游戏，最早开发的是lucky11 玩法。 访问路径： https://www.coinsprize.com/lucky11/
+13、上线之后，第二件事就是开发 slot 老虎机，需要做到适配。 访问路径： https://www.coinsprize.com/luckyslot/
+14、后来补充了BTC 币，用户可以使用BTC or ETH 进行投注了   访问路径： https://www.coinsprize.com
+15、之后补充了一个前端同事，进度加快。一起相继开发了聚合首页、幸运代币，幸运扑克、优惠中心等。   访问路径： https://www.coinsprize.com/luckyPoker/ https://www.coinsprize.com/luckycoin/
+16、这中间有个fomo3d Dapp游戏大火起来，我们也拉取的它的智能合约，进行改改，开发了追梦西游（基于插件MetaMask） 访问路径： http://www.exitedscam.me/
+17、之后又独自新创了一个Dapp玩法superDapp,智能合约自己开发的  访问路径： https://www.coinsprize.com/supercoin/
+18、平台接入了自己的CC币，用于活跃当前各类玩法。（然后开发了万圣节打怪活动） https://www.coinsprize.com
+19、2018/11/1 重构websocket ，开发聊天室功能。 https://www.coinsprize.com
 ~~~
 
 ### - 部分同学需求
@@ -72,5 +80,15 @@
 ![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/3.png)
 ![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/4.png)
 ![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/5.png)
+## 开始coinslot coinsprize
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/exitedscam.png)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/index.png)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/lucky11.png)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/luckyCoin.png)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/luckyPoker.png)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/promotion.png)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/slot.png)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/supercoin.png)
+
 
 
