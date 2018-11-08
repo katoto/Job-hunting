@@ -53,8 +53,8 @@
 ~~~
 1、厦门市威海特纺织品有限公司，商品展示，利于海外客户查看。
     访问路径：http://www.whbagsales.com/
-2、某后台管理。(完成) （大概五千多）利用了 vue-element-admin 的工具
-
+2、飞马只能营销系统后台管理。(完成) （大概五千多）利用了 vue-element-admin 的工具
+    http://47.96.104.111
 ~~~
 
 
@@ -80,6 +80,10 @@
 ![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/3.png)
 ![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/4.png)
 ![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/5.png)
+## 飞马管理后台（简化腾讯的计划创建）
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/feima1.png)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/feima2.png)
+![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/feima3.png)
 ## 开始coinslot coinsprize
 ![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/exitedscam.png)
 ![](https://raw.githubusercontent.com/katoto/Job-hunting/master/ProScreenShot/index.png)
